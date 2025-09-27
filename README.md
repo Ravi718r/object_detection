@@ -41,13 +41,12 @@ Detectly is a real-time object detection Android application built using **Camer
 
    ./gradlew installDebug
 
-📦 Dependencies
+## 📦 Dependencies
 
-CameraX
+- [**CameraX**](https://developer.android.com/training/camerax) – Modern Android camera library for easier camera development.
+- [**Google ML Kit – Object Detection**](https://developers.google.com/ml-kit/vision/object-detection/overview) – Powerful on-device machine learning for real-time object detection.
+- [**Jetpack Compose**](https://developer.android.com/jetpack/compose) – Android’s modern toolkit for building native UI.
 
-Google ML Kit – Object Detection
-
-Jetpack Compose
 
 📐 Architecture
 
