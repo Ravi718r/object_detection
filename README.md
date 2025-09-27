@@ -26,8 +26,8 @@ Detectly is a real-time object detection Android application built using **Camer
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/detectly.git
-   cd detectly
+  [ git clone https://github.com/yourusername/detectly.git
+   cd detectly](https://github.com/Ravi718r/object_detection.git)
 
 2. Open in Android Studio:
 
