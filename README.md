@@ -21,9 +21,6 @@ Detectly is a real-time object detection Android application built using **Camer
 | Architecture       | MVVM (Model-View-ViewModel) |
 | Build System       | Gradle                    |
 
-## 📸 Screenshots
-
-> *(Add screenshots or demo GIFs here if available)*
 
 ## 🛠️ Setup & Installation
 
@@ -31,3 +28,46 @@ Detectly is a real-time object detection Android application built using **Camer
    ```bash
    git clone https://github.com/yourusername/detectly.git
    cd detectly
+
+2. Open in Android Studio:
+
+    Open the project with Android Studio Arctic Fox or newer.
+
+3. Build & Run:
+
+   Ensure a device or emulator with a camera is connected.
+
+   Run the app from Android Studio or use:
+
+   ./gradlew installDebug
+
+📦 Dependencies
+
+CameraX
+
+Google ML Kit – Object Detection
+
+Jetpack Compose
+
+📐 Architecture
+
+The app follows the MVVM (Model-View-ViewModel) architecture for better testability, separation of concerns, and scalability. It uses Android best practices and clean code principles to ensure long-term maintainability.
+
+🤝 Contribution
+
+Contributions, issues, and feature requests are welcome!
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/my-feature)
+
+Commit your changes (git commit -am 'Add new feature')
+
+Push to the branch (git push origin feature/my-feature)
+
+Open a pull request
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
