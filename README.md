@@ -53,7 +53,7 @@ Jetpack Compose
 
 The app follows the MVVM (Model-View-ViewModel) architecture for better testability, separation of concerns, and scalability. It uses Android best practices and clean code principles to ensure long-term maintainability.
 
-🤝 Contribution
+## 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome!
 
@@ -67,7 +67,7 @@ Push to the branch (git push origin feature/my-feature)
 
 Open a pull request
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE
  file for details.
